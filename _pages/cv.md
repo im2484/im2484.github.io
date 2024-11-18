@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Certificated in GIS, Asheville-Buncombe Technical College, 2022
+* B.A. in History, University of North Carolina at Asheville, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* August 2022: Data and Research Assistant
+  * Princeton University
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Carolyn Rouse
 
-* Fall 2015: Research Assistant
-  * Github University
+* December 2020: Legal Assistant
+  * Pisgah Legal Services [Medical Legal Partnerships / Immigration] 
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+    
 
-* Summer 2015: Research Assistant
-  * Github University
+* May 2020: Migrant Education Advocate
+  * North Carolina Migrant Education Program
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* GIS
+* Programming
+  * R
+  * Python
+  * JavaScript
+* Data Visualization
+  *Tableau
+  *Adobe 
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Mentor, Latin-American Legal Defense Fund (LALDEF) 2023-
