@@ -80,7 +80,7 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  op-eds:
+  opeds:
     title: 'Op-Eds/Articles'
 
 # Site Settings
