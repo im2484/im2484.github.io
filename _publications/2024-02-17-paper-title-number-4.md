@@ -1,7 +1,7 @@
 ---
 title: "Capital's House of Wares"
 collection: publications
-category: opeds
+category: conference
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This essay explores critiques of the warehouse industry in reproducing economic and racial inequality.'
 date: 2024-03-16
