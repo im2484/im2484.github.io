@@ -1,13 +1,14 @@
 ---
-title: "Capital's House of Wares"
+title: "Paper Title Number 3"
 collection: publications
-category: conference
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This essay explores critiques of the warehouse industry in reproducing economic and racial inequality.'
-date: 2024-03-16
-venue: 'Protean Magazine'
-paperurl: 'https://proteanmag.com/2024/03/16/capitals-house-of-wares/'
-citation: 'Melchor, Ivan. (2024). &quot;Capital's House of Wares.&quot; <i>GitHub Protean Magazine</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-This article utilizes ethnography and findings from statistical analysis to explore the underpinnings sustaining the warehouse economy in the United States as well as its role in reproducing economic and racial inequality.
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
