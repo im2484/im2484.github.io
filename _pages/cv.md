@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Certificated in GIS, Asheville-Buncombe Technical College, 2022
+* Certificate in GIS, Asheville-Buncombe Technical College, 2022
 * B.A. in History, University of North Carolina at Asheville, 2020
 
 Work experience
 ======
 * August 2022: Data and Research Assistant
   * Princeton University
-  * Duties includes: Updates and improvements to template
+  * Duties include: Updates and improvements to template
   * Supervisor: Carolyn Rouse
 
 * December 2020: Legal Assistant
@@ -50,3 +50,4 @@ Publications
 Service and leadership
 ======
 * Mentor, Latin-American Legal Defense Fund (LALDEF) 2023-
+* Member, Asheville Human Relations Commission 2021-2023
