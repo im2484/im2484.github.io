@@ -18,7 +18,7 @@ Work experience
 ======
 * August 2022: Data and Research Assistant
   * Princeton University
-  * Duties include: Updates and improvements to template
+  * Duties include: Conducting multivariate statistical analysis and geospatial analysis (GIS) to explore topics in public policy, environmental justice, and cultural anthropology
   * Supervisor: Carolyn Rouse
 
 * December 2020: Legal Assistant
@@ -28,7 +28,7 @@ Work experience
 
 * May 2020: Migrant Education Advocate
   * North Carolina Migrant Education Program
-  * Duties included: Tagging issues
+  * Duties included: Conducting needs assessments with migrant farmworkers and providing English instruction. Partnered with local health clinics to provide subsidized health services
   
 Skills
 ======
@@ -38,8 +38,8 @@ Skills
   * Python
   * JavaScript
 * Data Visualization
-  *Tableau
-  *Adobe 
+  * Tableau
+  * Adobe 
 
 Publications
 ======
