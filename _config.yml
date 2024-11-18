@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IM_coverimage.jpg"
+  avatar           : "IM_coverimage.png"
   name             : "Ivan Melchor"
   pronouns         : # example: "she/her"  
   bio              : "Data and Research Assistant "
