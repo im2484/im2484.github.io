@@ -21,7 +21,7 @@ repository               : "im2484/im2484.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IM_coverimage2.png"
+  avatar           : "IM_coverimage2.png"
   name             : "Ivan Melchor"
   pronouns         : # example: "she/her"  
   bio              : "Data and Research Assistant "
