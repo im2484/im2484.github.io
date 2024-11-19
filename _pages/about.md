@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research assistant with the VizE Lab for Ethnographic Data Visualization at Princeton University. This is a portfolio site to showcase social science research projects and data visualizations. 
+This is a portfolio site to showcase social science research projects and data visualizations. I am currently a research assistant with the VizE Lab for Ethnographic Data Visualization at Princeton University. 
 
 Past Projects
 ======
