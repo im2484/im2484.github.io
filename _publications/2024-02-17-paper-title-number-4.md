@@ -1,5 +1,5 @@
 ---
-title: "Capital's House of Wares"
+title: "Capitals House of Wares"
 collection: publications
 category: conference
 permalink: /publication/2015-10-01-paper-title-number-3
