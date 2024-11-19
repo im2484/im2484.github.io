@@ -23,7 +23,7 @@ Work experience
 
 * December 2020: Legal Assistant
   * Pisgah Legal Services [Medical Legal Partnerships / Immigration] 
-  * Duties included: Merging pull requests
+  * Duties included: Helping our organization embed medical-legal partnerships into healthcare settings to mitigate social determinants of health / Supported our immigration team with cases relating to asylum and human rights
     
 
 * May 2020: Migrant Education Advocate
