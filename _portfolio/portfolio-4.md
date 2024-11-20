@@ -1,6 +1,6 @@
 ---
 title: "Materiality and Space (2023)"
-excerpt: "Original Research and Data Analysis<br/><img src='/images/Princeton_3D viz.png'>"
+excerpt: "Original Research and Data Analysis<br/><img src='/images/angles_3d.png'>"
 collection: portfolio
 paperurl: 'https://carolinaangles.com/2023/10/24/materiality-and-space-a-case-study-of-the-new-jersey-floodplains/'
 ---
