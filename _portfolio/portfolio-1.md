@@ -6,3 +6,4 @@ paperurl: 'https://asheville-flooded-vize-lab.glitch.me/'
 ---
 
 This storymap was generated using Javascript and Mapbox. It incorporates ethnographic documentary work to outline the effects of Hurricane Helene on Asheville, NC. 
+ [View Project Here](https://asheville-flooded-vize-lab.glitch.me).
