@@ -1,6 +1,6 @@
 ---
 title: "Economics of Space: Warehouse Development and Environmental Justice (2024)"
-excerpt: "Carolina Planning Journal Vol. 49<br/><img src='/images/EJ_protest_newark.jpg' alt = 'Newark Clean Air Protest' width = '400' height = '450'>"
+excerpt: "Carolina Planning Journal Vol. 49<br/><img src='/images/EJ_protest_newark.jpg' alt = 'Newark Clean Air Protest' width = '300' height = '350'>"
 collection: portfolio
 paperurl: 'https://issuu.com/carolinaplanningjournal/docs/cpj_vol49'
 ---
