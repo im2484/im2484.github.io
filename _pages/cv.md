@@ -22,12 +22,12 @@ Work experience
   * Duties include: Helping develop digital products to improve social service delivery and communicate policy outcomes. This Includes the development of NYC Poverty Measure website. (in development)
 
 
-* August 2022: Data and Research Assistant
+* August 2022 - April 2025: Data and Research Assistant
   * Princeton University
   * Duties include: Conducting multivariate statistical analysis and geospatial analysis (GIS) to explore topics in public policy, environmental justice, and cultural anthropology
   * Supervisor: Carolyn Rouse
 
-* December 2020: Legal Assistant
+* December 2020 - August 2022: Legal Assistant
   * Pisgah Legal Services [Medical Legal Partnerships / Immigration] 
   * Duties included: Helping our organization embed medical-legal partnerships into healthcare settings to mitigate social determinants of health / Supported our immigration team with cases relating to asylum and human rights
     
@@ -42,10 +42,9 @@ Skills
 * Programming
   * R
   * Python
-  * JavaScript
 * Data Visualization
   * Tableau
-  * Adobe 
+  * Flourish 
 
 Publications
 ======
