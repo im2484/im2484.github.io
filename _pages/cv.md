@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* April 2025 - Present: Data Products Management Fellow
+  * New York City Mayor's Office - Office of Economic Opportunity
+  * Duties include: Helping develop digital products to improve social service delivery and communicate policy outcomes. This Includes the development of NYC Poverty Measure website. (in development)
+
+
 * August 2022: Data and Research Assistant
   * Princeton University
   * Duties include: Conducting multivariate statistical analysis and geospatial analysis (GIS) to explore topics in public policy, environmental justice, and cultural anthropology
