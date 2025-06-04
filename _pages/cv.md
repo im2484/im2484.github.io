@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Master in Public Policy, Harvard Kennedy School, 2025-2027 (incoming)
 * Certificate in GIS, Asheville-Buncombe Technical College, 2022
 * B.A. in History, University of North Carolina at Asheville, 2020
 
